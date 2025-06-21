@@ -1,10 +1,3 @@
-<style>
-body{
-  font-size: 12px !important;
-  line-height: 1.3 !important;
-}
-</style>
-
 # Canny 边缘检测与霍夫圆检测算法设计文档
 
 ## 1. 算法整体流程
